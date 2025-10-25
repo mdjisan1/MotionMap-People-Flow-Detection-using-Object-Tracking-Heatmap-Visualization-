@@ -90,11 +90,8 @@ https://media.roboflow.com/supervision/video-examples/people-walking.mp4
 
 ## 🧾 Output Preview
 
-### ▶️ Output Video (People Counting)
-<video width="600" controls>
-  <source src="https://youtu.be/OIZESJNACvo" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### ▶️ Demo Video (People Counting)
+[![Watch PeopleFlow Demo](https://img.youtube.com/vi/OIZESJNACvo/0.jpg)](https://youtu.be/OIZESJNACvo)
 
 ---
 
