@@ -119,12 +119,10 @@ https://media.roboflow.com/supervision/video-examples/people-walking.mp4
 
 ## 🏁 Deliverables
 ✅ `output_video.mp4` — annotated video with live IN/OUT count  
-✅ `heatmap.png` — generated heatmap of movement density  
-✅ `README.md` — full documentation  
+✅ `heatmap.png` — generated heatmap of movement density   
 
 ---
 
 ## 👨‍💻 Author
 **Md Jisan Ahmed**  
-📧 your.email@example.com  
-🌐 [LinkedIn / Portfolio link here]
+📧 jisan3325@gmail.com 
