@@ -1,5 +1,5 @@
 
-# 🧠 People Flow Detection using Object Tracking & Heatmap Visualization  
+# 🧠 MotionMap: People Flow Detection using Object Tracking & Heatmap Visualization  
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-blue)  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-green)  
@@ -92,7 +92,7 @@ https://media.roboflow.com/supervision/video-examples/people-walking.mp4
 
 ### ▶️ Output Video (People Counting)
 <video width="600" controls>
-  <source src="output_video.mp4" type="video/mp4">
+  <source src="https://youtu.be/OIZESJNACvo" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
